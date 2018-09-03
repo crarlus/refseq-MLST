@@ -3,7 +3,7 @@
 MLST overview of all NCBI refseq complete genomes for selected bacterial species
 
 # Links to reports
-* [Listeria monocytogenes] (https://cdn.rawgit.com/crarlus/refseq-MLST/master/mlst_report.html)
+* [Listeria monocytogenes](https://cdn.rawgit.com/crarlus/refseq-MLST/master/mlst_report.html)
 
 
 ## Methods
